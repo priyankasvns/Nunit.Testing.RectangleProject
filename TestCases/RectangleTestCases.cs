@@ -9,7 +9,7 @@ using Nunit.Testing.Rectangle;
 namespace TestCases
 {
     [TestFixture]
-    public class Class1
+    public class RectangleTestCases
     {
         [Test]
         public void GetLength_InputLength8Width5_Returns8()
